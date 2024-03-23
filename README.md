@@ -112,6 +112,6 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-![](ex6.png)
+![](ex5.png)
 ### Result:
 Thus,implementation of Information Retrieval Using Boolean Model in Python is successfully completed.
